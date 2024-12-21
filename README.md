@@ -4,7 +4,7 @@
 
 - pytorch == 1.12.0 
 - fastNLP == 0.5.0
-- conda == 12.0
+- CUDA == 12.0
 
 ## 데이터 준비 - 모든 데이터는 data folder 안에 있음
 [데이터 준비](https://nlp.stanford.edu/projects/glove/)
